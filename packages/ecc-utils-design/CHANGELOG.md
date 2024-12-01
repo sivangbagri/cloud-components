@@ -2,6 +2,13 @@
 
 ## 1.0.0
 
+### Patch Changes
+
+- 05261a1: remove disabled attr from submit button when required field has default data
+- a52ceab: add support for readonly attribute to ecc-utils-design-form fields. This allows users to make fields uneditable.
+
+## 1.0.0
+
 ### Major Changes
 
 - a137eb4: - Introducing CSS Variables
